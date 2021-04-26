@@ -1,0 +1,9 @@
+{
+	"name": "idl-adf-managed-dev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a66933e-3505-4895-bfdd-fde731d869cc",
+		"tenantId": "66f6821e-0a30-4a06-8b8b-901bbfd2bc60"
+	}
+}

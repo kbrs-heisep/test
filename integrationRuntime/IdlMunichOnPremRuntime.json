@@ -1,0 +1,6 @@
+{
+	"name": "IdlMunichOnPremRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
